@@ -1,4 +1,4 @@
-# README: Image Processing and Analysis
+# Image Processing and Analysis
 
 ## Overview
 This project involves processing an input image through multiple stages, including grayscale conversion, edge detection, segmentation, and visualization enhancements. The results are analyzed to identify the most effective techniques for edge detection and segmentation, with additional aesthetic features added to the final outputs.
@@ -81,3 +81,8 @@ The grayscale image was segmented using the following techniques:
 - **Best Edge Detection Technique:** Canny edge detection (sigma = 12) on CNN-segmented images.
 - **Enhancements:** Colored edges and superimposed signature add aesthetic and functional value to the processed images.
 
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
